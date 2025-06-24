@@ -1,8 +1,9 @@
 export const artists = [
-    { artist: "Winky", genres: ["Dancehall", "Zim Dancehall"] },
-    { artist: "Freeman HKD", genres: ["Dancehall", "Zim Dancehall"] },
-    { artist: "Killer T", genres: ["Dancehall", "Zim Dancehall"] },
-    { artist: "Seh Calaz", genres: ["Dancehall", "Zim Dancehall"] },
+    { artist: "Akon", genres: ["R&B", "Trance"] },
+    { artist: "Baba Harare", genres: ["Dancehall", "Zim Dancehall"] },
+    { artist: "Shinsoman", genres: ["Dancehall", "Zim Dancehall"] },
+    { artist: "Master H", genres: ["Dancehall", "Zim Dancehall"] },
+    { artist: "Silent Killer", genres: ["Dancehall", "Zim Dancehall"] },
     { artist: "Nutty O", genres: ["Dancehall", "Zim Dancehall"] },
     { artist: "Tocky Vibes", genres: ["Dancehall", "Zim Dancehall"] },
     { artist: "Jah Signal", genres: ["Dancehall", "Zim Dancehall"] },
